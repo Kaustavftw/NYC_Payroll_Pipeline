@@ -1,0 +1,9 @@
+{
+	"name": "adf-nycpayroll-kaustav-s",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb1e3bfe-9c61-4fb1-aabe-d2fc294b1031",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
